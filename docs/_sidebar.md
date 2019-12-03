@@ -1,6 +1,6 @@
 - Auftragsverwaltung
 
-  - [Absatz Übersicht](Auftragsverwaltung.md)
+  - [Absatz Übersicht](Auftragsverwaltung/Auftragsverwaltung.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
